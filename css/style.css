@@ -100,3 +100,9 @@ figure:hover .heart{
     color: red;
 }
 
+
+figure:hover #img1{
+    cursor: pointer;
+    width: 100%;
+    content: url('.img/1b');
+}
