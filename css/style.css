@@ -100,5 +100,52 @@ figure:hover .heart{
     color: red;
 }
 
-figure
+figure:hover #img1{
+    content: url('../img/1b.webp');
+    cursor: pointer;
+    width: 100%;
+    display: inline-block;
+
+}
+
+figure:hover #img2{
+    content: url('../img/2b.webp');
+    cursor: pointer;
+    width: 100%;
+    display: inline-block;
+
+}
+
+figure:hover #img3{
+    content: url('../img/3b.webp');
+    cursor: pointer;
+    width: 100%;
+    display: inline-block;
+
+}
+
+figure:hover #img4{
+    content: url('../img/4b.webp');
+    cursor: pointer;
+    width: 100%;
+    display: inline-block;
+
+}
+
+figure:hover #img5{
+    content: url('../img/5b.webp');
+    cursor: pointer;
+    width: 100%;
+    display: inline-block;
+
+}
+
+figure:hover #img6{
+    content: url('../img/6b.webp');
+    cursor: pointer;
+    width: 100%;
+    display: inline-block;
+
+}
+
 
